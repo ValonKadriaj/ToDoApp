@@ -1,0 +1,14 @@
+{
+  "name": "projekti-diploma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind build src/tailwind.css -o public/style.css"
+  },
+  "author": "Valon Kadriaj",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.1.3"
+  }
+}
